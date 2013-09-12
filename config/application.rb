@@ -6,4 +6,3 @@ module BestQuotes
 end   
 
 
-[3,4,5].sum
